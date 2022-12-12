@@ -66,3 +66,4 @@ while True:
     time.sleep(t)
 
 # pyinstaller --add-data "*.mp3;." --onefile econ.py
+
